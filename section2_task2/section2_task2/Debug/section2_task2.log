@@ -1,0 +1,4 @@
+﻿  project2.cpp
+D:\cproject\section2_task2\section2_task2\project2.cpp(78,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\cproject\section2_task2\section2_task2\project2.cpp(18): message : 查看对正在编译的函数 模板 实例化“void display<int>(std::vector<int,std::allocator<int>> *,std::string)”的引用
+  section2_task2.vcxproj -> D:\cproject\section2_task2\Debug\section2_task2.exe
