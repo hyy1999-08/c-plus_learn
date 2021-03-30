@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\cproject\section3_task1\section3_task1\main.cpp(13,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\cproject\section3_task1\section3_task1\main.cpp(43): message : 查看对正在编译的函数 模板 实例化“void sub_vec1<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::greater<_Ty>,int,int>(input,std::vector<_Ty,std::allocator<_Ty>> &,const Elemtype &,comp)”的引用
+          with
+          [
+              _Ty=int,
+              input=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              Elemtype=int,
+              comp=std::greater<int>
+          ]
+D:\cproject\section3_task1\section3_task1\main.cpp(27,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\cproject\section3_task1\section3_task1\main.cpp(46): message : 查看对正在编译的函数 模板 实例化“void sub_vec2<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::greater<_Ty>,int,int>(input,std::vector<_Ty,std::allocator<_Ty>> &,const Elemtype &,comp)”的引用
+          with
+          [
+              _Ty=int,
+              input=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              Elemtype=int,
+              comp=std::greater<int>
+          ]
+  section3_task1.vcxproj -> D:\cproject\section3_task1\Debug\section3_task1.exe
