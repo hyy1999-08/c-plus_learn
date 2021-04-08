@@ -1,0 +1,4 @@
+﻿  main4.cpp
+D:\cproject\section3_task7\section3_task7\main4.cpp(66,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\cproject\section3_task7\section3_task7\main4.cpp(76,22): warning C4018: “<”: 有符号/无符号不匹配
+  section3_task7.vcxproj -> D:\cproject\section3_task7\Debug\section3_task7.exe
