@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\cproject\section3_task4\section3_task4\main.cpp(62,9): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  section3_task4.vcxproj -> D:\cproject\section3_task4\Debug\section3_task4.exe
