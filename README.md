@@ -12,4 +12,5 @@ for section2
 
 for section 3
 1.use iterator
-2.
+2.use istream_iterator and ostream-iterator to manage transform the text information.
+3.
