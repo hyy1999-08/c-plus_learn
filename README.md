@@ -20,3 +20,7 @@ for section 3
 5.similar to 4, but output a file to show the results.    
 6.a simple attempt to find the family members using map and vector.   
 7.input an int array, and output its odd numbers and even ones separately.    
+
+for section 4
+
+userprofile:attempt to use class to create a game. Guess a number.
