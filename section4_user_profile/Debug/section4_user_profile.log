@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\c++project\section4_user_profile\main.cpp(34,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\c++project\section4_user_profile\main.cpp(46,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\c++project\section4_user_profile\main.cpp(48,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\c++project\section4_user_profile\main.cpp(57,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\c++project\section4_user_profile\main.cpp(59,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\c++project\section4_user_profile\main.cpp(61,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\c++project\section4_user_profile\main.cpp(63,20): warning C4018: “<”: 有符号/无符号不匹配
+  section4_user_profile.vcxproj -> D:\c++project\section4_user_profile\Debug\section4_user_profile.exe
