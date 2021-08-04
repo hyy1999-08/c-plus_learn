@@ -24,3 +24,8 @@ for section 3
 for section 4
 
 userprofile:attempt to use class to create a game. Guess a number.
+
+for section 5
+
+understand more about class.
+1.
